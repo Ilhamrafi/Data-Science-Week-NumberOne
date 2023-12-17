@@ -1,0 +1,32 @@
+1. Analisis Demografis Pelanggan:
+Melihat distribusi pelanggan berdasarkan lokasi (Location) untuk memahami di mana mayoritas pelanggan berada.
+
+2. Analisis Lama Pelanggan (Tenure Months):
+Memeriksa distribusi tenur pelanggan untuk memahami seberapa lama rata-rata pelanggan telah menggunakan layanan.
+
+3. Pengelompokan Berdasarkan Kelas Perangkat (Device Class):
+Menganalisis bagaimana penggunaan layanan bervariasi berdasarkan kelas perangkat. Misalnya, apakah pelanggan dengan perangkat kelas atas cenderung menggunakan lebih banyak layanan?
+
+4. Penggunaan Produk dan Layanan Tambahan:
+Mengidentifikasi seberapa banyak pelanggan menggunakan layanan tambahan seperti Games Product, Music Product, Education Product, Call Center, Video Product, dan MyApp. Ini dapat memberikan wawasan tentang preferensi pelanggan.
+
+5. Metode Pembayaran (Payment Method):
+Mengetahui metode pembayaran yang paling umum digunakan oleh pelanggan. Ini bisa memberikan informasi tentang preferensi pembayaran.
+
+6. Analisis Belanja Bulanan (Monthly Purchase):
+Menganalisis distribusi pengeluaran bulanan pelanggan. Hal ini dapat membantu dalam memahami pola pengeluaran dan nilai hidup pelanggan.
+
+7. Analisis Churn:
+Mengetahui seberapa banyak pelanggan yang meninggalkan perusahaan (Churn Label) selama periode tertentu. Analisis ini penting untuk mengidentifikasi area potensial untuk meningkatkan retensi pelanggan.
+
+8. Analisis Geografis (Longitude dan Latitude):
+Menganalisis distribusi pelanggan berdasarkan koordinat geografis mereka. Ini dapat memberikan wawasan tentang sebaran geografis pelanggan.
+
+9. Analisis Nilai Hidup Pelanggan (CLTV):
+Memahami distribusi nilai hidup pelanggan. Ini adalah metrik penting dalam menilai seberapa berharga setiap pelanggan bagi perusahaan.
+
+10. Korelasi Antar Atribut:
+Menganalisis korelasi antara berbagai atribut untuk melihat hubungan atau dependensi di antara mereka.
+
+11.Analisis Variasi Waktu (Jika Tersedia):
+Jika ada data waktu, Anda dapat melakukan analisis tren seiring waktu untuk melihat bagaimana perilaku pelanggan berubah dari waktu ke waktu.
